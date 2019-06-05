@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FiniteStateMachineFramework.Core
+namespace FCT.FiniteStateMachineFramework.Core
 {
 	public interface IStateMachine
 	{

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FiniteStateMachine_TestProgram
+namespace FCT.FiniteStateMachine_TestProgram
 {
 	class Program
 	{

@@ -7,8 +7,8 @@
     <ProjectGuid>{6F2933E9-4A12-4517-A79E-9D8E4B64EA70}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FiniteStateMachineFramework.Core</RootNamespace>
-    <AssemblyName>FiniteStateMachineFramework.Core</AssemblyName>
+    <RootNamespace>FCT.FiniteStateMachineFramework.Core</RootNamespace>
+    <AssemblyName>FCT.FiniteStateMachineFramework.Core</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

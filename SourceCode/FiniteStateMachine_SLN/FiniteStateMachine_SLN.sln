@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiniteStateMachine_TestProg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiniteStateMachineFramework.Core", "FiniteStateMachineFramework.Core\FiniteStateMachineFramework.Core.csproj", "{6F2933E9-4A12-4517-A79E-9D8E4B64EA70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiniteStateMachineFramework.Code", "FiniteStateMachineFramework.Code\FiniteStateMachineFramework.Code.csproj", "{7C0AB142-F8EE-4FE3-975B-A42FED9E1860}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6F2933E9-4A12-4517-A79E-9D8E4B64EA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F2933E9-4A12-4517-A79E-9D8E4B64EA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F2933E9-4A12-4517-A79E-9D8E4B64EA70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0AB142-F8EE-4FE3-975B-A42FED9E1860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0AB142-F8EE-4FE3-975B-A42FED9E1860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0AB142-F8EE-4FE3-975B-A42FED9E1860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0AB142-F8EE-4FE3-975B-A42FED9E1860}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

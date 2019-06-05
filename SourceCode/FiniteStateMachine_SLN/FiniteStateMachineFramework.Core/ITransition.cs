@@ -1,6 +1,6 @@
 ﻿
 
-namespace FiniteStateMachineFramework.Core
+namespace FCT.FiniteStateMachineFramework.Core
 {
 	public interface ITransition
 	{
