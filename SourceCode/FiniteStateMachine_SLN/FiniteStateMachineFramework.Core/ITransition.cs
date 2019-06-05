@@ -8,8 +8,8 @@ namespace FCT.FiniteStateMachineFramework.Core
 		string	Name				{ get; set; }
 		string	Event				{ get; set; }
 		string	Description			{ get; set; }
-		IState	SourceState			{ get; set; }
-		IState	DestinationState	{ get; set; }
+		int		SourceStateID		{ get; set; }
+		int		DestinationStateID	{ get; set; }
 
 
 		void OnTransition();
